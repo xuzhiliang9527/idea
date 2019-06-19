@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<school name="woniuxy">
+  <class id="52">
+    <students name="notivp">
+      <name1>张三</name1>
+      <age1>18</age1>
+    </students>
+    <students name="vip">
+      <name1>李四</name1>
+      <age1>19</age1>
+    </students>
+  </class>
+</school>
